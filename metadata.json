@@ -1,0 +1,12 @@
+{
+  "description": "Un café associatif d'éducation populaire à La Filature, Villeurbanne.",
+  "auteur·ice": "Le collectif Upop' Bar",
+  "licence": "CC-BY-SA",
+  "legal_url": "/mentions-legales/",
+  "contact_email": "<contact@codecommun.coop>",
+  "image": "85c0619d-f7db-4499-99db-0c94af40f1af.png",
+  "schema_type": "WebSite\\",
+  "excerpt": "L'Upop' Bar est un projet de territoire. Il rassemble dans un même lieu, pour un an, des communs de natures différentes : des communs d'espace que tient et…",
+  "title": "Upop' Bar",
+  "order": 0
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Nasjoe.github.io/upop_bar_static/sitemap.xml

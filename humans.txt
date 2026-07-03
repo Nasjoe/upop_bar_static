@@ -1,0 +1,6 @@
+/* TEAM */
+Creator: Le collectif Upop' Bar
+
+/* SITE */
+Generator: Docs2Static (https://github.com/CoopCodeCommun/Docs2static)
+Language: fr
